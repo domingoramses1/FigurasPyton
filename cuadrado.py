@@ -1,0 +1,1 @@
+print("calcular area de cuadrado")
